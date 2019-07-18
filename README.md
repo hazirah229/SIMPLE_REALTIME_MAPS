@@ -32,11 +32,13 @@
 ## Usage:
 1. git clone this repo.
 2. cd into project folder : cd SIMPLEREALTIME_MAPS
-3. start the express server using command: npm start
-4. open another terminal and cd into client folder: cd SIMPLEREALTIME_MAPS/client
-5. run Vue.js using command: npm run serve.
-6. open two (2 or more) browser and navigate to localhost:8080 for vue.js client page.
-7. subscribe to a room and start sending coordinates and see the changes in another browser.
+3. npm install
+4. start the express server using command: npm start
+5. open another terminal and cd into client folder: cd SIMPLEREALTIME_MAPS/client
+6. npm install
+7. run Vue.js using command: npm run serve.
+8. open two (2 or more) browser and navigate to localhost:8080 for vue.js client page.
+9. subscribe to a room and start sending coordinates and see the changes in another browser.
 
 
 ## References: 
