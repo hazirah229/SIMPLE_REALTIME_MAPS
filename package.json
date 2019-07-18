@@ -1,0 +1,18 @@
+{
+  "name": "simplerealtime_maps",
+  "version": "1.0.0",
+  "description": "Simple RealTime Maps Using socket.io and Vue.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server/app.js"
+  },
+  "author": "Nurfitri",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "socket.io": "^2.2.0"
+  }
+}
